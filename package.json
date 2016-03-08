@@ -2,7 +2,7 @@
   "name": "build-cmake",
   "version": "0.1.0",
   "description": "A short description of your package",
-  "repository": "https://github.com/siegelaaron94/atom-build-cake.git",
+  "repository": "https://github.com/siegelaaron94/atom-build-cmake.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
