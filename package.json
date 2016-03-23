@@ -16,12 +16,6 @@
     }
   },
   "devDependencies": {
-    "temp": "^0.8.3",
-    "fs-extra": "^0.23.1",
-    "atom-build-spec-helpers": "^0.4.0",
-    "babel-eslint": "^4.1.5",
-    "eslint": "^1.10.1",
-    "eslint-config-atom-build": "^2.0.0"
   },
   "keywords": [
     "cmake",
@@ -30,7 +24,6 @@
   ],
   "main": "lib/cmake.js",
   "dependencies": {
-    "chokidar": "^1.4.3",
     "voucher": "^0.1.2"
   }
 }
